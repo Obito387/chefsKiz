@@ -54,4 +54,4 @@ npx expo start -c
  Scan the generated QR code using the Expo Go app on your iOS or Android device to view the application.
 
 # Video Demonstration
-https://youtube.com/shorts/nF3m9rdiPjg?si=OrRa3b7fal9d1qBd
+https://youtu.be/vgQI4IqCXl0?si=wNz7M_bETiH4GEiU
